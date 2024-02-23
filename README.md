@@ -2,7 +2,7 @@
 
 ### About Me  :
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **ignacioe.rodriguez@correo.ucu.edu.uy**
 
